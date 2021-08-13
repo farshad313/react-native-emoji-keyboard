@@ -20,7 +20,7 @@ const styles = StyleSheet.create({
     container: {
         backgroundColor: '#EAEBEF',
         width: width,
-        position: 'absolute',
+       // position: 'absolute',
         zIndex: 10,
         overflow: 'visible',
         bottom: 0,
